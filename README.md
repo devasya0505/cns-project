@@ -1,14 +1,7 @@
-
 # Maxgram
-
 A clone of Instagram created with MERN stack.
 
-## Demo
-
-https://maxgram.zabarka.com/
-
 ## Features
-
 - Authentication
 - Creating / deleting posts
 - Comments
@@ -19,8 +12,9 @@ https://maxgram.zabarka.com/
 - Multiple images per post
 - Explore page
 - User search
-## Tech Stack
 
+  
+## Tech Stack
 - MongoDB
 - Express
 - React
